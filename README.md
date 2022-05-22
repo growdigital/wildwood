@@ -1,5 +1,5 @@
-# Template
+# Wildwood
 
-CAD template files for my forest garden projects
+CAD files for Wildwood project
 
-[github.com/growdigital/Notes](github.com/growdigital/Notes)
+[notes.grwd.uk/wildwood](https://notes.grwd.uk/wildwood)
